@@ -36,7 +36,7 @@ make install
 
 ```bash
 file /lib/libsqlite3.so.3.51.0 
-# /lib/libsqlite3.so.3.51.0: ELF 64-bit LSB shared object, aarch64, version 1 (SYSV), dynamically linked, with debug_info, not stripped
+# /lib/libsqlite3.so.3.51.0: ELF 64-bit LSB shared object, ARM aarch64, version 1 (SYSV), dynamically linked, with debug_info, not stripped
 
 ```
 

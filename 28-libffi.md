@@ -32,7 +32,7 @@ make install
 
 ```bash
 file /usr/lib/libffi.so.8.2.0
-# → ELF 64-bit LSB shared object, aarch64, ... dynamically linked
+# → ELF 64-bit LSB shared object, ARM aarch64, ... dynamically linked
 
 ldd /usr/lib/libffi.so.8.2.0
 # → libc.so => /lib/ld-musl-aarch64.so.1

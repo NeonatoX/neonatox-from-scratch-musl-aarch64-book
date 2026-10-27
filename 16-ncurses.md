@@ -30,7 +30,7 @@ cd ncurses-6.6
   --enable-overwrite
 
 # fix on musl aarch64
-sed -i 's/#     include <iostream.h>/#     include <iostream>/' c++/etip.h
+# sed -i 's/#     include <iostream.h>/#     include <iostream>/' c++/etip.h
 
 make -j$(nproc)
 make install.libs install.includes install.progs

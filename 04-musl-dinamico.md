@@ -60,7 +60,7 @@ readelf -l t | grep interpreter
 ### Resultado esperado
 
 ```bash
-ELF 64-bit LSB executable, aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-musl-aarch64.so.1, not stripped
+ELF 64-bit LSB executable, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-musl-aarch64.so.1, not stripped
       [Requesting program interpreter: /lib/ld-musl-aarch64.so.1]
 ```
 

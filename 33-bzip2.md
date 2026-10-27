@@ -41,7 +41,7 @@ rm -fv /usr/lib/libbz2.a
 
 ```bash
 file /lib/libbz2.so.1.0.8 
-# /lib/libbz2.so.1.0.8: ELF 64-bit LSB shared object, aarch64, version 1 (SYSV), dynamically linked, with debug_info, not stripped
+# /lib/libbz2.so.1.0.8: ELF 64-bit LSB shared object, ARM aarch64, version 1 (SYSV), dynamically linked, with debug_info, not stripped
 
 ```
 
