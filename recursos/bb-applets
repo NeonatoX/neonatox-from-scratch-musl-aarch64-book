@@ -21,6 +21,8 @@ fgrep
 find
 getopt
 grep
+gunzip
+gzip
 head
 hexdump
 hostname
@@ -61,5 +63,6 @@ wget
 which
 xargs
 xz
+xzcat
 yes
 zcat

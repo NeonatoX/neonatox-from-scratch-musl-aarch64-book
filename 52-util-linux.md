@@ -56,7 +56,7 @@ make install
 
 ```bash
 ldd /usr/bin/mount | grep musl
-# → /lib/ld-musl-x86_64.so.1
+# → /lib/ld-musl-aarch64.so.1
 
 /usr/bin/lsblk --version
 # → lsblk from util-linux 2.52.1
